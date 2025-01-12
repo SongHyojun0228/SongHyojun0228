@@ -4,9 +4,6 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=songhyojun0228&bg_color=E0DACF&color=000000&line=000000&point=000000&area=true&hide_border=true)
 
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=songhyojun0228&theme=react)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songhyojun0228&layout=compact&theme=tokyonight)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
