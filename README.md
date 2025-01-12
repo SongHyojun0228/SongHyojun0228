@@ -1,6 +1,7 @@
 ### 안녕하세요💪🏻
 #### 송효준입니다.
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=000000&center=true&width=435&lines=송효준입니다🔥;Full-stack+Developer+🚀;Always+Learning!+📚)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=000000&center=false&vCenter=false&width=435&lines=송효준입니다🔥;풀스택+공부+중입니다🚀;꾸준히+공부하는+중입니다📚)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=songhyojun0228&show_icons=true&theme=default)
 
