@@ -2,7 +2,7 @@
 
 #### ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=E0DACF&center=false&vCenter=false&width=435&lines=송효준입니다🔥;FullStack💻)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=songhyojun0228&bg_color=E0DACF&color=9C3B40&line=9C3B40&point=9C3B40&area=true&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=songhyojun0228&bg_color=E0DACF&color=1B2028&line=9C3B40&point=9C3B40&area=true&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songhyojun0228&layout=compact&theme=tokyonight)
 
