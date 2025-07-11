@@ -32,6 +32,9 @@
 - Gradle
 - Git / GitHub
 
+### Infra
+- AWS ( Ubuntu )
+  
 <br><br>
 
 ## 자격증
