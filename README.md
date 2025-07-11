@@ -34,6 +34,7 @@
 
 ### Infra
 - AWS ( Ubuntu )
+- Oracle XE
   
 <br><br>
 
