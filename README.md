@@ -22,7 +22,7 @@
 - Java
 - Spring Boot / Spring MVC
 - JPA (Hibernate)
-- Node.js (기초 수준)
+- Node.js
 
 ### Database
 - Oracle
