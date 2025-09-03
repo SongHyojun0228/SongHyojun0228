@@ -17,6 +17,7 @@
 - HTML5 / CSS3
 - JavaScript
 - Thymeleaf (Template Engine)
+- React
 
 ### Backend
 - Java
