@@ -36,6 +36,11 @@
 ### Infra
 - AWS ( Ubuntu )
 - Oracle XE
+
+### AI Tools
+- Cursor
+- Runnable
+- Claude 
   
 <br><br>
 
